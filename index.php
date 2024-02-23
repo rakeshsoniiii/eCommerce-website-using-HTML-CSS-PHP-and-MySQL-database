@@ -100,6 +100,10 @@ if (isset($_SESSION['email'])) {
         include 'includes/footer.php';
         ?>
         <!--Footer end-->
-   
+      
+   "cliui" "^8.0.1"
+      "escal...^3.1.1"
+      "version 4.3.0"
+      "resolve yargd"
     </body> 
 </html>
