@@ -1651,6 +1651,28 @@ if (typeof jQuery === 'undefined') {
     }
 
     return delta
+
+if = ( 
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+     
   }
 
   Tooltip.prototype.getTitle = function () {
